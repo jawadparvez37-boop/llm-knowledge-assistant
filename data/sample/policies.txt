@@ -1,0 +1,17 @@
+Refund Policy
+=============
+
+Orders can be refunded within 30 days of purchase if the product is unused.
+Contact support@example.com with your order number.
+
+Shipping
+========
+
+Standard shipping takes 3-5 business days.
+Express shipping is available at checkout.
+
+Support Hours
+=============
+
+Monday through Friday, 9am to 6pm Central Time.
+Weekend requests are answered on the next business day.
